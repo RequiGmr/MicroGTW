@@ -1,0 +1,13 @@
+{
+"companyName": "Youtouch",
+"productName": "Micro Guardians",
+"dataUrl": "MGbuilds.data.unityweb",
+"asmCodeUrl": "MGbuilds.asm.code.unityweb",
+"asmMemoryUrl": "MGbuilds.asm.memory.unityweb",
+"asmFrameworkUrl": "MGbuilds.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
